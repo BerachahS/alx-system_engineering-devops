@@ -4,3 +4,5 @@ ls
 script that displays the contents list of your current directory 
 cd ~
 script that changes the working directory to the users home directory 
+ls -l 
+script that displays the current directory's contents in long format 
