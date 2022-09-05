@@ -1,2 +1,2 @@
 #!/bin/bash
-echo cat direc/etc/passwd
+echo cat direc1/etc/passwd
